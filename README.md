@@ -4,7 +4,7 @@ MacDesk combines a customizable Dock and notch companion in one installation, wi
 
 ## Download
 
-[Download MacDesk 0.1.8 for Apple silicon](https://github.com/Melendezj18/MacDesk-Downloads/releases/download/v0.1.8/MacDesk-0.1.8-arm64.dmg) · [All releases and matching source](https://github.com/Melendezj18/MacDesk-Downloads/releases)
+[Download MacDesk 0.1.9 for Apple silicon](https://github.com/Melendezj18/MacDesk-Downloads/releases/download/v0.1.9/MacDesk-0.1.9-arm64.dmg) · [All releases and matching source](https://github.com/Melendezj18/MacDesk-Downloads/releases)
 
 No GitHub account is needed. Requires an Apple silicon Mac running macOS 15.5 or newer. This is a personal, locally signed build, **not Apple-notarized**.
 
@@ -20,7 +20,7 @@ The app asks for macOS privacy permissions only as needed for enabled integratio
 
 ## Updates
 
-Download and replace the app manually from this repository. Version 0.1.8's built-in updater still targets the private development channel and does not provide account-free automatic updates. No token is needed to download, install or run MacDesk. Never share a GitHub token or signing key.
+Download and replace the app manually from this repository. Version 0.1.9's built-in updater still targets the private development channel and does not provide account-free automatic updates. No token is needed to download, install or run MacDesk. Never share a GitHub token or signing key.
 
 ## Source and attribution
 
